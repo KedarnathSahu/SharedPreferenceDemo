@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SharedPreferenceDemo</string>
+    <string name="email">User ID</string>
+    <string name="password">Password</string>
+    <string name="login">LogIn</string>
+    <string name="load_login_data">Load Data</string>
+    <string name="setting">Setting</string>
+    <string name="switchtextview">Switch Status</string>
+    <string name="togglebuttontextview">ToggleButton Status</string>
+    <string name="aSwitch">Switch</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="toff">TOff</string>
+    <string name="ton">TOn</string>
+    <string name="soff">SOff</string>
+    <string name="son">SOn</string>
+</resources>
